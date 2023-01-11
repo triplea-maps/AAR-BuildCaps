@@ -1,0 +1,5 @@
+map_name: AAR-BuildCaps
+games:
+- game_name: AAR-BuildCaps
+  file_name: AAR-BuildCaps.xml
+version: 0
